@@ -9,6 +9,9 @@ Through this project, demonstrated my ability to build ETL workflows, model rela
 profit %, delivery performance), and convert raw data into meaningful insights that support strategic decision-making in logistics and supply chain operations.
 
 ![ER Diagram](https://github.com/harpreet-kaur87/SupplyChain/blob/main/er_diagram.png)
+![Report 1](https://github.com/harpreet-kaur87/SupplyChain/blob/main/report_1.png)
+![Report 2](https://github.com/harpreet-kaur87/SupplyChain/blob/main/report_2.png)
+![Report 3](https://github.com/harpreet-kaur87/SupplyChain/blob/main/report_3.png)
 
 ## Key Insights:
 
