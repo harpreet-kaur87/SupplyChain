@@ -7,3 +7,5 @@ queries to analyze key supply chain metrics. Then visualized these insights in i
 profitability, regional revenue trends, supplier distribution, and operational KPIs across 13,500 orders, 1,600 customers, 126 products, 20 suppliers, and 10 warehouses.
 Through this project, demonstrated my ability to build ETL workflows, model relational databases, write complex SQL queries, calculate business-critical metrics (YOY sales, 
 profit %, delivery performance), and convert raw data into meaningful insights that support strategic decision-making in logistics and supply chain operations.
+
+![ER Diagram](https://github.com/harpreet-kaur87/SupplyChain/blob/main/er_diagram.png)
