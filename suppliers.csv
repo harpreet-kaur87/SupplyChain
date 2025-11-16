@@ -1,0 +1,21 @@
+supplier_id,supplier_name,region,rating
+SUP001,Global Traders,Central,4
+SUP002,Elite Supplies,North,2.8
+SUP003,Prime Distributors,West,4.5
+SUP004,Apex Imports,South,3.7
+SUP005,Sunrise Exports,West,4.4
+SUP006,Metro Wholesalers,Central,4.6
+SUP007,Evergreen Suppliers,North,3
+SUP008,BlueOcean Enterprises,South,3
+SUP009,Skyline Traders,North,2.5
+SUP010,Starlink Exports,West,4.7
+SUP011,Greenfield Industries,Northeast,3.7
+SUP012,Brightway Supplies,Central,3.2
+SUP013,Silverline Traders,Central,3.7
+SUP014,ValueMart Distributors,Central,4.5
+SUP015,Unity Exports,South,2.6
+SUP016,Summit Suppliers,East,3.8
+SUP017,Orbit Wholesalers,Northeast,3.6
+SUP018,Royal Imports,East,2.7
+SUP019,Nova Enterprises,West,2.8
+SUP020,Harmony Supplies,East,3.8
